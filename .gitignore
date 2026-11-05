@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+app/build-meta/
+app/*.elf
+app/romfs/
+app/*.3dsx
+app/*.smdh
+app/*.cia
+app/source/sl_patches.h
+app/source/letter_art.h
